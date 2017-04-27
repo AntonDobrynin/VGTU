@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrototype3", "WpfPrototype3\WpfPrototype3.csproj", "{285e1e49-dbc1-43b7-a4f0-d3db96c41e05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrototype3Screens", "WpfPrototype3\WpfPrototype3Screens\WpfPrototype3Screens.csproj", "{38075ef4-501c-4473-aebd-b54434ce9b18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285E1E49-DBC1-43B7-A4F0-D3DB96C41E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285E1E49-DBC1-43B7-A4F0-D3DB96C41E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285E1E49-DBC1-43B7-A4F0-D3DB96C41E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285E1E49-DBC1-43B7-A4F0-D3DB96C41E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38075EF4-501C-4473-AEBD-B54434CE9B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38075EF4-501C-4473-AEBD-B54434CE9B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38075EF4-501C-4473-AEBD-B54434CE9B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38075EF4-501C-4473-AEBD-B54434CE9B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
