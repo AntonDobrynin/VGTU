@@ -10,13 +10,40 @@
       <FileName>Screen_1.xaml</FileName>
       <Annotations />
       <Position>
-        <X>0</X>
-        <Y>0</Y>
+        <X>-152</X>
+        <Y>-1</Y>
       </Position>
       <VisualTag>0</VisualTag>
     </Screen>
+    <Screen>
+      <Type>Navigation</Type>
+      <ClassName>WpfPrototype3Screens.Screen_2</ClassName>
+      <DisplayName>Screen 2</DisplayName>
+      <FileName>Screen_2.xaml</FileName>
+      <Annotations />
+      <Position>
+        <X>-8</X>
+        <Y>-0</Y>
+      </Position>
+      <VisualTag>1</VisualTag>
+    </Screen>
   </Screens>
-  <Connections />
+  <Connections>
+    <Connection>
+      <Source>WpfPrototype3Screens.Screen_1</Source>
+      <Target>WpfPrototype3Screens.Screen_2</Target>
+      <Type>Navigation</Type>
+      <TransitionType>Fade</TransitionType>
+      <VisualTag>0</VisualTag>
+    </Connection>
+    <Connection>
+      <Source>WpfPrototype3Screens.Screen_2</Source>
+      <Target>WpfPrototype3Screens.Screen_1</Target>
+      <Type>Navigation</Type>
+      <TransitionType>Fade</TransitionType>
+      <VisualTag>0</VisualTag>
+    </Connection>
+  </Connections>
   <PrototypeRevision>0</PrototypeRevision>
   <BrandingText>Microsoft SketchFlow Prototype</BrandingText>
   <RuntimeOptions>
@@ -61,10 +88,10 @@
     </VisualTag>
   </VisualTags>
   <ViewState>
-    <Zoom>1</Zoom>
+    <Zoom>0.8</Zoom>
     <Center>
-      <X>308</X>
-      <Y>78.5</Y>
+      <X>197.11562499999997</X>
+      <Y>100.51979166666668</Y>
     </Center>
   </ViewState>
 </Data>

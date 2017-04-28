@@ -8,3 +8,28 @@ C:\Users\Zelga\OneDrive\Документы\Expression\Blend 4\Projects\WpfProtot
 C:\Users\Zelga\OneDrive\Документы\Expression\Blend 4\Projects\WpfPrototype3\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.g.resources
 C:\Users\Zelga\OneDrive\Документы\Expression\Blend 4\Projects\WpfPrototype3\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.dll
 C:\Users\Zelga\OneDrive\Документы\Expression\Blend 4\Projects\WpfPrototype3\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.pdb
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\bin\Debug\WpfPrototype3.Screens.dll
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\bin\Debug\WpfPrototype3.Screens.pdb
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3Screens.csprojResolveAssemblyReference.cache
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_1.baml
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\SketchStyles.baml
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_1.g.cs
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens_MarkupCompile.cache
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.g.resources
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.dll
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.pdb
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_2.baml
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_2.g.cs
+C:\Users\Zelga\Downloads\VGTU-master\VGTU-master\WpfPrototype3\WpfPrototype3Screens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\bin\Debug\WpfPrototype3.Screens.dll
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\bin\Debug\WpfPrototype3.Screens.pdb
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3Screens.csprojResolveAssemblyReference.cache
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_1.baml
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_2.baml
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\SketchStyles.baml
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_1.g.cs
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\Screen_2.g.cs
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens_MarkupCompile.cache
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.g.resources
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.dll
+C:\Users\Zelga\OneDrive\Документы\GitHub\VGTU\Gui\WpfPrototype3\WpfPrototype3Screens\obj\Debug\WpfPrototype3.Screens.pdb

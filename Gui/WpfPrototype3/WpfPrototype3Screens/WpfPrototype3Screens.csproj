@@ -66,7 +66,14 @@
     <Compile Include="Screen_1.xaml.cs">
       <DependentUpon>Screen_1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Screen_2.xaml.cs">
+      <DependentUpon>Screen_2.xaml</DependentUpon>
+    </Compile>
     <Page Include="Screen_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen_2.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -74,6 +81,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Resource Include="01.jpg" />
     <Resource Include="Fonts\BuxtonSketch.ttf" />
     <Resource Include="Fonts\SketchFlow Print.ttf" />
     <Resource Include="Fonts\SegoeMarker.ttf" />
